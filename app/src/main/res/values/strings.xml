@@ -1,5 +1,16 @@
 <resources>
     <string name="app_name">LouAnnDroid</string>
+    <string name="question1_text">Jetpack has always been a collection of Independently devoloped libraries.</string>
+    <string name="true_button">Trutho</string>
+    <string name="false_button">Falso</string>
+    <string name="next_button">Next</string>
+    <string name="question3_text">It is convention to include \'activity\' as prefix to a layout file.</string>
+    <string name="question4_text">Android is an operating system.</string>
+    <string name="question5_text">It is best to keep all source files grouped by language.</string>
+
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
